@@ -7,7 +7,7 @@
  :dev-http {8000 "public"}
 
  :dependencies
- [[no.cjohansen/replicant "0.2024.05.10"]]
+ [[no.cjohansen/replicant "0.2024.06.30"]]
 
  :builds
  {:app {:target :browser
